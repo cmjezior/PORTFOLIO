@@ -1,27 +1,36 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+![alt text](https://media.licdn.com/dms/image/C4E03AQHf-R5k7KPxMg/profile-displayphoto-shrink_200_200/0?e=1526191200&v=alpha&t=h0A3ndzFRS_3gFXWjiM0BmrvjX3TIb0YInSZvH_3L60 "Chris Jezior Profile")
+# Chris Jezior - [About Me](https://about.me/chrisjezior)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+Hello there! [Living in DC](https://www.google.com/maps/place/Washington,+DC/data=!4m2!3m1!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a?sa=X&ved=0ahUKEwjm4JnujOvZAhVIulMKHdPuD-IQ8gEIKzAA), I found myself diving head first into public sector marketing for enterprise IT solutions. I quickly learned the ropes of federal, state & local, and commercial marketing as I managed aspects of the Adobe Government relationship and owned [20+ complementary vendor-accounts](http://www.carahsoft.com/solve/citizen-engagement).
 
-## Getting Started
+Now, as an Instructional Systems Designer and contractor at the [Department of Justice - Asset Forfeiture Program](https://www.justice.gov/afp), I collaborate with every team that takes part in the software development lifecycle. Learning how agencies operate internally has become an important takeaway. It's here that I quickly learned the needs of developers and realized these needs expand across every agency.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+With this insight, I'd like to continue getting the right technology into the hands of those that work to improve our digital world - for me, that all starts with marketing.
 
-## Bugs and Issues
+## Strengths
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+I can conduct full life cycle marketing campaigns through content curation (creating infographics, white-papers, data sheets) & syndication, webcast administration & execution, email automation, and event/tradeshow management, while handling marketing development funds (MDF).
+* [Check out my Portfolio](https://cmjezior.github.io/portfolio/)
 
-## Creator
+## Currently
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+I am currently taking a [Full Stack Web Development Coding Bootcamp](https://bootcamp.cps.gwu.edu/coding/) through George Washington University where I am gaining a sharp repertoire of programming languages and development concepts.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## Skills
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+* B2G
+* B2B
+* Full Stack Web Development
+* UX/UI
+* A/B Testing
+* Adobe Creative Suite
+* Vendor Relationship Management
+* User Needs Assessment
+* Journey Mapping
+* Articulate (Course Development)
+
+Feel free to message me at cmjezior@gmail.com
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2018 Chris Jezior. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
