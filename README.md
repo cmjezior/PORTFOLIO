@@ -1,4 +1,3 @@
-![alt text](https://media.licdn.com/dms/image/C4E03AQHf-R5k7KPxMg/profile-displayphoto-shrink_200_200/0?e=1526191200&v=alpha&t=h0A3ndzFRS_3gFXWjiM0BmrvjX3TIb0YInSZvH_3L60 "Chris Jezior Profile")
 # Chris Jezior - [About Me](https://about.me/chrisjezior)
 
 Hello there! [Living in DC](https://www.google.com/maps/place/Washington,+DC/data=!4m2!3m1!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a?sa=X&ved=0ahUKEwjm4JnujOvZAhVIulMKHdPuD-IQ8gEIKzAA), I found myself diving head first into public sector marketing for enterprise IT solutions. I quickly learned the ropes of federal, state & local, and commercial marketing as I managed aspects of the Adobe Government relationship and owned [20+ complementary vendor-accounts](http://www.carahsoft.com/solve/citizen-engagement).
